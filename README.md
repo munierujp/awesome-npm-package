@@ -1,2 +1,3 @@
 # awesome-npm-package
-My favorite npm packages
+
+- [fp-ts](https://www.npmjs.com/package/fp-ts)
