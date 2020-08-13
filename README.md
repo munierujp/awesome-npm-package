@@ -8,3 +8,4 @@
 - [mustache](https://www.npmjs.com/package/mustache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [utility-types](https://www.npmjs.com/package/utility-types)
+- [uuid](https://www.npmjs.com/package/uuid)
