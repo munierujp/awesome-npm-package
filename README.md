@@ -3,6 +3,7 @@
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
+- [io-ts](https://www.npmjs.com/package/io-ts)
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash)
 - [mustache](https://www.npmjs.com/package/mustache)
