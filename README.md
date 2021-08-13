@@ -8,6 +8,5 @@
 - [lodash](https://www.npmjs.com/package/lodash)
 - [mustache](https://www.npmjs.com/package/mustache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
-- [tsconfigs](https://www.npmjs.com/package/tsconfigs)
 - [utility-types](https://www.npmjs.com/package/utility-types)
 - [uuid](https://www.npmjs.com/package/uuid)
