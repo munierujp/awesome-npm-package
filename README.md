@@ -7,6 +7,7 @@
 - [io-ts](https://www.npmjs.com/package/io-ts)
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash)
+- [mockdate](https://www.npmjs.com/package/mockdate)
 - [mustache](https://www.npmjs.com/package/mustache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [utility-types](https://www.npmjs.com/package/utility-types)
