@@ -1,6 +1,7 @@
 # awesome-npm-package
 
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
+- [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
 - [got](https://www.npmjs.com/package/got)
