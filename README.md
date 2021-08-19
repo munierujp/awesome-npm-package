@@ -3,6 +3,7 @@
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
+- [fetch-mock](https://www.npmjs.com/package/fetch-mock)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
 - [got](https://www.npmjs.com/package/got)
 - [io-ts](https://www.npmjs.com/package/io-ts)
