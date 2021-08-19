@@ -10,6 +10,7 @@
 - [lodash](https://www.npmjs.com/package/lodash)
 - [mockdate](https://www.npmjs.com/package/mockdate)
 - [mustache](https://www.npmjs.com/package/mustache)
+- [nock](https://www.npmjs.com/package/nock)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [utility-types](https://www.npmjs.com/package/utility-types)
 - [uuid](https://www.npmjs.com/package/uuid)
