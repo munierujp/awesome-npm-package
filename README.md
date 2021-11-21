@@ -9,7 +9,6 @@
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash)
 - [log4js](https://www.npmjs.com/package/log4js)
-- [mockdate](https://www.npmjs.com/package/mockdate)
 - [mustache](https://www.npmjs.com/package/mustache)
 - [nock](https://www.npmjs.com/package/nock)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
