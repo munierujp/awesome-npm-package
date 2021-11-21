@@ -14,6 +14,7 @@
 - [mustache](https://www.npmjs.com/package/mustache)
 - [nock](https://www.npmjs.com/package/nock)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
+- [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [read-package-json](https://www.npmjs.com/package/read-package-json)
 - [semver](https://www.npmjs.com/package/semver)
 - [utility-types](https://www.npmjs.com/package/utility-types)
