@@ -12,6 +12,7 @@
 - [mustache](https://www.npmjs.com/package/mustache)
 - [nock](https://www.npmjs.com/package/nock)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
+- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [semver](https://www.npmjs.com/package/semver)
