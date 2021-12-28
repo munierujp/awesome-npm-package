@@ -16,5 +16,6 @@
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [semver](https://www.npmjs.com/package/semver)
+- [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types)
 - [uuid](https://www.npmjs.com/package/uuid)
