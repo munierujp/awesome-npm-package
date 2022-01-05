@@ -10,7 +10,6 @@
 - [lodash](https://www.npmjs.com/package/lodash)
 - [log4js](https://www.npmjs.com/package/log4js)
 - [mustache](https://www.npmjs.com/package/mustache)
-- [nock](https://www.npmjs.com/package/nock)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
