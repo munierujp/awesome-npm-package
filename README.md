@@ -13,6 +13,7 @@
 - [lodash](https://www.npmjs.com/package/lodash)
 - [log4js](https://www.npmjs.com/package/log4js)
 - [mustache](https://www.npmjs.com/package/mustache)
+- [node-cache](https://www.npmjs.com/package/node-cache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
