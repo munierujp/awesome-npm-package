@@ -5,7 +5,6 @@
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
-- [got](https://www.npmjs.com/package/got)
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes)
 - [idb](https://www.npmjs.com/package/idb)
 - [io-ts](https://www.npmjs.com/package/io-ts)
