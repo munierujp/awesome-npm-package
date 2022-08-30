@@ -1,5 +1,6 @@
 # awesome-npm-package
 
+- [array-shuffle](https://www.npmjs.com/package/array-shuffle)
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
