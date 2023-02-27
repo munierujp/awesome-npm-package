@@ -5,6 +5,7 @@
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie)
+- [execa](https://www.npmjs.com/package/execa)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
 - [glob](https://www.npmjs.com/package/glob)
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes)
