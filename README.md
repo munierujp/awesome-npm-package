@@ -24,6 +24,7 @@
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [playwright](https://www.npmjs.com/package/playwright)
 - [semver](https://www.npmjs.com/package/semver)
+- [sharp](https://www.npmjs.com/package/sharp)
 - [type-fest](https://www.npmjs.com/package/type-fest)
 - [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types)
