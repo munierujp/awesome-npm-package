@@ -22,6 +22,7 @@
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
+- [playwright](https://www.npmjs.com/package/playwright)
 - [semver](https://www.npmjs.com/package/semver)
 - [type-fest](https://www.npmjs.com/package/type-fest)
 - [type-guards](https://www.npmjs.com/package/type-guards)
