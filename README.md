@@ -2,6 +2,7 @@
 
 - [array-shuffle](https://www.npmjs.com/package/array-shuffle)
 - [commander](https://www.npmjs.com/package/commander)
+- [cosmiconfig](https://www.npmjs.com/package/cosmiconfig)
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
