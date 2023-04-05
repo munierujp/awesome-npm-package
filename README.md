@@ -22,7 +22,7 @@
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [node-notifier](https://www.npmjs.com/package/node-notifier)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
-- [npm-run-all](https://www.npmjs.com/package/npm-run-all)
+- [npm-run-all2](https://www.npmjs.com/package/npm-run-all2)
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [playwright](https://www.npmjs.com/package/playwright)
 - [semver](https://www.npmjs.com/package/semver)
