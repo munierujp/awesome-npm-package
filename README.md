@@ -1,6 +1,7 @@
 # awesome-npm-package
 
 - [array-shuffle](https://www.npmjs.com/package/array-shuffle)
+- [classnames](https://www.npmjs.com/package/classnames)
 - [commander](https://www.npmjs.com/package/commander)
 - [cosmiconfig](https://www.npmjs.com/package/cosmiconfig)
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
