@@ -15,6 +15,7 @@
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes)
 - [idb](https://www.npmjs.com/package/idb)
 - [io-ts](https://www.npmjs.com/package/io-ts)
+- [js-yaml](https://www.npmjs.com/package/js-yaml)
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash)
 - [log4js](https://www.npmjs.com/package/log4js)
