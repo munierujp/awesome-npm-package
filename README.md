@@ -12,7 +12,7 @@
 - [execa](https://www.npmjs.com/package/execa)
 - [fp-ts](https://www.npmjs.com/package/fp-ts)
 - [glob](https://www.npmjs.com/package/glob)
-- [http-status-codes](https://www.npmjs.com/package/http-status-codes)
+- [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
 - [idb](https://www.npmjs.com/package/idb)
 - [io-ts](https://www.npmjs.com/package/io-ts)
 - [js-yaml](https://www.npmjs.com/package/js-yaml)
