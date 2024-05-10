@@ -4,7 +4,7 @@
 - [classnames](https://www.npmjs.com/package/classnames)
 - [clsx](https://www.npmjs.com/package/clsx)
 - [commander](https://www.npmjs.com/package/commander)
-- [cosmiconfig](https://www.npmjs.com/package/cosmiconfig)
+- [cosmiconfig](https://www.npmjs.com/package/cosmiconfig): Load config files
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [date-fns](https://www.npmjs.com/package/date-fns)
@@ -17,8 +17,8 @@
 - [io-ts](https://www.npmjs.com/package/io-ts)
 - [js-yaml](https://www.npmjs.com/package/js-yaml)
 - [jsdom](https://www.npmjs.com/package/jsdom)
-- [lodash](https://www.npmjs.com/package/lodash)
-- [log4js](https://www.npmjs.com/package/log4js)
+- [lodash](https://www.npmjs.com/package/lodash): Utility functions
+- [log4js](https://www.npmjs.com/package/log4js): Logger
 - [ltsv](https://www.npmjs.com/package/ltsv)
 - [mustache](https://www.npmjs.com/package/mustache)
 - [node-cache](https://www.npmjs.com/package/node-cache)
@@ -35,5 +35,6 @@
 - [tsx](https://www.npmjs.com/package/tsx)
 - [type-fest](https://www.npmjs.com/package/type-fest)
 - [type-guards](https://www.npmjs.com/package/type-guards)
-- [utility-types](https://www.npmjs.com/package/utility-types)
-- [uuid](https://www.npmjs.com/package/uuid)
+- [utility-types](https://www.npmjs.com/package/utility-types): Utility types
+- [uuid](https://www.npmjs.com/package/uuid): Generate UUID
+  
