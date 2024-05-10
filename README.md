@@ -31,6 +31,7 @@
 - [playwright](https://www.npmjs.com/package/playwright)
 - [semver](https://www.npmjs.com/package/semver)
 - [sharp](https://www.npmjs.com/package/sharp)
+- [ts-node](https://www.npmjs.com/package/ts-node)
 - [tsx](https://www.npmjs.com/package/tsx)
 - [type-fest](https://www.npmjs.com/package/type-fest)
 - [type-guards](https://www.npmjs.com/package/type-guards)
