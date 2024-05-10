@@ -19,7 +19,7 @@
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash): Utility functions
 - [log4js](https://www.npmjs.com/package/log4js): Logger
-- [ltsv](https://www.npmjs.com/package/ltsv)
+- [ltsv](https://www.npmjs.com/package/ltsv): LTSV
 - [mustache](https://www.npmjs.com/package/mustache)
 - [node-cache](https://www.npmjs.com/package/node-cache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
@@ -36,5 +36,5 @@
 - [type-fest](https://www.npmjs.com/package/type-fest)
 - [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types): Utility types
-- [uuid](https://www.npmjs.com/package/uuid): Generate UUID
+- [uuid](https://www.npmjs.com/package/uuid): UUID
   
