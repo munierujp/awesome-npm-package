@@ -33,7 +33,7 @@
 - [sharp](https://www.npmjs.com/package/sharp)
 - [ts-node](https://www.npmjs.com/package/ts-node)
 - [tsx](https://www.npmjs.com/package/tsx)
-- [type-fest](https://www.npmjs.com/package/type-fest)
+- [type-fest](https://www.npmjs.com/package/type-fest): Utility types
 - [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types): Utility types
 - [uuid](https://www.npmjs.com/package/uuid): UUID
