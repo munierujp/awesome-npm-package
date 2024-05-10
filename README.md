@@ -11,7 +11,7 @@
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie): IndexedDB
 - [execa](https://www.npmjs.com/package/execa)
-- [fp-ts](https://www.npmjs.com/package/fp-ts)
+- [fp-ts](https://www.npmjs.com/package/fp-ts): Functional programming
 - [glob](https://www.npmjs.com/package/glob)
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
 - [idb](https://www.npmjs.com/package/idb): IndexedDB
