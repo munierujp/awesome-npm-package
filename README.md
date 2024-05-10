@@ -24,7 +24,6 @@
 - [mustache](https://www.npmjs.com/package/mustache): Mustache
 - [node-cache](https://www.npmjs.com/package/node-cache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
-- [node-notifier](https://www.npmjs.com/package/node-notifier)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all2](https://www.npmjs.com/package/npm-run-all2)
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
