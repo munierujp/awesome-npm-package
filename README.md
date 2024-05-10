@@ -1,6 +1,6 @@
 # awesome-npm-package
 
-- [array-shuffle](https://www.npmjs.com/package/array-shuffle)
+- [array-shuffle](https://www.npmjs.com/package/array-shuffle): Shuffle elements of array
 - [classnames](https://www.npmjs.com/package/classnames)
 - [clsx](https://www.npmjs.com/package/clsx)
 - [commander](https://www.npmjs.com/package/commander)
