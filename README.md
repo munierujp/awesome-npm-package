@@ -30,7 +30,7 @@
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [pkg-types](https://www.npmjs.com/package/pkg-types)
 - [playwright](https://www.npmjs.com/package/playwright)
-- [semver](https://www.npmjs.com/package/semver)
+- [semver](https://www.npmjs.com/package/semver): Semantic Versioning
 - [sharp](https://www.npmjs.com/package/sharp)
 - [ts-node](https://www.npmjs.com/package/ts-node)
 - [tsx](https://www.npmjs.com/package/tsx)
