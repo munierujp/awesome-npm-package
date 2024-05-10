@@ -7,7 +7,7 @@
 - [commander](https://www.npmjs.com/package/commander)
 - [cosmiconfig](https://www.npmjs.com/package/cosmiconfig): Load config files
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
-- [csv-parse](https://www.npmjs.com/package/csv-parse)
+- [csv-parse](https://www.npmjs.com/package/csv-parse): CSV
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie)
 - [execa](https://www.npmjs.com/package/execa)
