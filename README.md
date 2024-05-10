@@ -21,7 +21,7 @@
 - [lodash](https://www.npmjs.com/package/lodash): Utility functions
 - [log4js](https://www.npmjs.com/package/log4js): Logger
 - [ltsv](https://www.npmjs.com/package/ltsv): LTSV
-- [mustache](https://www.npmjs.com/package/mustache)
+- [mustache](https://www.npmjs.com/package/mustache): Mustache
 - [node-cache](https://www.npmjs.com/package/node-cache)
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [node-notifier](https://www.npmjs.com/package/node-notifier)
