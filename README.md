@@ -22,7 +22,7 @@
 - [log4js](https://www.npmjs.com/package/log4js): logger
 - [ltsv](https://www.npmjs.com/package/ltsv): LTSV
 - [mustache](https://www.npmjs.com/package/mustache): Mustache
-- [node-cache](https://www.npmjs.com/package/node-cache)
+- [node-cache](https://www.npmjs.com/package/node-cache): cache
 - [node-fetch](https://www.npmjs.com/package/node-fetch)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - [npm-run-all2](https://www.npmjs.com/package/npm-run-all2)
