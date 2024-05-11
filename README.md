@@ -16,7 +16,7 @@
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
 - [idb](https://www.npmjs.com/package/idb): IndexedDB
 - [io-ts](https://www.npmjs.com/package/io-ts)
-- [js-yaml](https://www.npmjs.com/package/js-yaml): YAML
+- [js-yaml](https://www.npmjs.com/package/js-yaml): [YAML](https://yaml.org/)
 - [jsdom](https://www.npmjs.com/package/jsdom)
 - [lodash](https://www.npmjs.com/package/lodash): utility functions
 - [log4js](https://www.npmjs.com/package/log4js): logger
