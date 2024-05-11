@@ -21,7 +21,7 @@
 - [lodash](https://www.npmjs.com/package/lodash): utility functions
 - [log4js](https://www.npmjs.com/package/log4js): logger
 - [ltsv](https://www.npmjs.com/package/ltsv): [LTSV](http://ltsv.org/)
-- [mustache](https://www.npmjs.com/package/mustache): Mustache
+- [mustache](https://www.npmjs.com/package/mustache): [Mustache](https://mustache.github.io/)
 - [node-cache](https://www.npmjs.com/package/node-cache): cache
 - [node-fetch](https://www.npmjs.com/package/node-fetch): HTTP client compatible with [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
