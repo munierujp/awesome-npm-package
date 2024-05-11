@@ -36,5 +36,5 @@
 - [type-fest](https://www.npmjs.com/package/type-fest): utility types
 - [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types): utility types
-- [uuid](https://www.npmjs.com/package/uuid): UUID
+- [uuid](https://www.npmjs.com/package/uuid): generate [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
   
