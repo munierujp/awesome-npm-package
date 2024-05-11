@@ -6,7 +6,7 @@
 - [clsx](https://www.npmjs.com/package/clsx)
 - [commander](https://www.npmjs.com/package/commander)
 - [cosmiconfig](https://www.npmjs.com/package/cosmiconfig): load config files
-- [crypto-js](https://www.npmjs.com/package/crypto-js)
+- [crypto-js](https://www.npmjs.com/package/crypto-js): crypto
 - [csv-parse](https://www.npmjs.com/package/csv-parse): CSV
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie): IndexedDB
