@@ -9,12 +9,12 @@
 - [crypto-js](https://www.npmjs.com/package/crypto-js): crypto
 - [csv-parse](https://www.npmjs.com/package/csv-parse): CSV
 - [date-fns](https://www.npmjs.com/package/date-fns)
-- [dexie](https://www.npmjs.com/package/dexie): IndexedDB
+- [dexie](https://www.npmjs.com/package/dexie): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [execa](https://www.npmjs.com/package/execa)
 - [fp-ts](https://www.npmjs.com/package/fp-ts): functional programming
 - [glob](https://www.npmjs.com/package/glob)
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
-- [idb](https://www.npmjs.com/package/idb): IndexedDB
+- [idb](https://www.npmjs.com/package/idb): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [io-ts](https://www.npmjs.com/package/io-ts)
 - [js-yaml](https://www.npmjs.com/package/js-yaml): [YAML](https://yaml.org/)
 - [jsdom](https://www.npmjs.com/package/jsdom)
