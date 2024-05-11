@@ -29,7 +29,7 @@
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [pkg-types](https://www.npmjs.com/package/pkg-types)
 - [playwright](https://www.npmjs.com/package/playwright)
-- [semver](https://www.npmjs.com/package/semver): Semantic Versioning
+- [semver](https://www.npmjs.com/package/semver): [Semantic Versioning](https://semver.org/)
 - [sharp](https://www.npmjs.com/package/sharp)
 - [ts-node](https://www.npmjs.com/package/ts-node): execute TypeScript
 - [tsx](https://www.npmjs.com/package/tsx): execute TypeScript
