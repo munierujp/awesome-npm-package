@@ -17,7 +17,7 @@
 - [idb](https://www.npmjs.com/package/idb): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [io-ts](https://www.npmjs.com/package/io-ts)
 - [js-yaml](https://www.npmjs.com/package/js-yaml): [YAML](https://yaml.org/)
-- [jsdom](https://www.npmjs.com/package/jsdom)
+- [jsdom](https://www.npmjs.com/package/jsdom): parse [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [lodash](https://www.npmjs.com/package/lodash): utility functions
 - [log4js](https://www.npmjs.com/package/log4js): logger
 - [ltsv](https://www.npmjs.com/package/ltsv): [LTSV](http://ltsv.org/)
