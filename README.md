@@ -13,6 +13,7 @@
 - [execa](https://www.npmjs.com/package/execa): execute commands
 - [fp-ts](https://www.npmjs.com/package/fp-ts): functional programming
 - [glob](https://www.npmjs.com/package/glob)
+- [global-jsdom](https://www.npmjs.com/package/global-jsdom)
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
 - [idb](https://www.npmjs.com/package/idb): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [io-ts](https://www.npmjs.com/package/io-ts)
