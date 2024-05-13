@@ -31,6 +31,7 @@
 - [playwright](https://www.npmjs.com/package/playwright): headless browser
 - [semver](https://www.npmjs.com/package/semver): [Semantic Versioning](https://semver.org/)
 - [sharp](https://www.npmjs.com/package/sharp)
+- [test-each](https://www.npmjs.com/package/test-each)
 - [ts-node](https://www.npmjs.com/package/ts-node): execute TypeScript
 - [tsx](https://www.npmjs.com/package/tsx): execute TypeScript
 - [type-fest](https://www.npmjs.com/package/type-fest): utility types
