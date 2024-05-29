@@ -30,6 +30,7 @@
 - [parse-github-url](https://www.npmjs.com/package/parse-github-url)
 - [pkg-types](https://www.npmjs.com/package/pkg-types)
 - [playwright](https://www.npmjs.com/package/playwright): headless browser
+- [safe-marked](https://www.npmjs.com/package/safe-marked)
 - [semver](https://www.npmjs.com/package/semver): [Semantic Versioning](https://semver.org/)
 - [sharp](https://www.npmjs.com/package/sharp)
 - [test-each](https://www.npmjs.com/package/test-each)
