@@ -17,6 +17,7 @@
 - [http-status-codes](https://www.npmjs.com/package/http-status-codes): HTTP status codes
 - [idb](https://www.npmjs.com/package/idb): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [io-ts](https://www.npmjs.com/package/io-ts)
+- [is-ci](https://www.npmjs.com/package/is-ci)
 - [js-yaml](https://www.npmjs.com/package/js-yaml): [YAML](https://yaml.org/)
 - [jsdom](https://www.npmjs.com/package/jsdom): parse [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [lodash](https://www.npmjs.com/package/lodash): utility functions
