@@ -10,6 +10,7 @@
 - [csv-parse](https://www.npmjs.com/package/csv-parse): [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
 - [date-fns](https://www.npmjs.com/package/date-fns): utility functions for dates
 - [dexie](https://www.npmjs.com/package/dexie): [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 - [execa](https://www.npmjs.com/package/execa): execute commands
 - [fp-ts](https://www.npmjs.com/package/fp-ts): functional programming
 - [glob](https://www.npmjs.com/package/glob)
